@@ -1,7 +1,6 @@
-# initial.sh
-Initial server setup (debian-based) bash script
+# Initial server setup (debian-based) bash script
 
-### Not finished
+## Not finished
 
 ### This script will:
   - Update and upgrade packages
